@@ -1,6 +1,6 @@
-# LoopBack Boot
+# Neaty Boot
 
-A convention-based bootstrapper for LoopBack applications.
+A convention-based bootstrapper for Neaty/LoopBack applications.
 
 For full documentation, see the official StrongLoop documentation: [Defining boot scripts](http://docs.strongloop.com/display/LB/Defining+boot+scripts) and [Creating a LoopBack application](http://docs.strongloop.com/display/LB/Creating+an+application).
 
@@ -34,7 +34,7 @@ This document describes the configuration conventions of the `2.x` versions.
 
 ```js
 var loopback = require('loopback');
-var boot = require('loopback-boot');
+var boot = require('neaty-boot');
 
 var app = loopback();
 boot(app, __dirname);
