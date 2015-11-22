@@ -3,7 +3,7 @@
   "version": "3.0.0",
   "description": "Convention-based bootstrapper for Neaty/LoopBack applications",
   "keywords": [
-    "Neaty"
+    "Neaty",
     "StrongLoop",
     "LoopBack",
     "Configuration",
