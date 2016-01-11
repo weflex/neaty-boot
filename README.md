@@ -28,12 +28,12 @@ This document describes the configuration conventions of the `2.x` versions.
 
 ## Installation
 
-    npm install loopback-boot
+    npm install neaty-boot --save
 
 ## Usage
 
 ```js
-var loopback = require('loopback');
+var loopback = require('neaty');
 var boot = require('neaty-boot');
 
 var app = loopback();
